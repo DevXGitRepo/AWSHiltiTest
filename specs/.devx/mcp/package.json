@@ -1,0 +1,13 @@
+{
+  "name": "hilti-projtest-mcp-server",
+  "version": "1.0.0",
+  "description": "DevX MCP server for Hilti_ProjTest specs",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  }
+}
